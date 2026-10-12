@@ -43,5 +43,5 @@ achievementGiver({
     Title = "Flaired expansion",
     Desc = "Stay away from me!",
     Reason = "Encounter fluster",
-    Image = "rbxassetid://89062776379915"
+    Image = "rbxassetid://134369618141553"
 })
